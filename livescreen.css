@@ -1,8 +1,17 @@
 @charset "utf-8";
 /* CSS Document */
-.bs-item-text {
-font-size: 1.4rem!important;
+
+/*Font size of booking details */
+element.style {
+/*background-color: rgb(244, 218, 87); */
+font-size: 20px;
 }
+
+/*Font size of room or asset name */
+.bs-item-text {
+font-size: 1.5rem!important;
+}
+
 .bs-item {
 background-color: #f9f9f9 !important;
 }
@@ -10,6 +19,7 @@ background-color: #f9f9f9 !important;
 background-color: #dbf0c7 !important;
 }
 */
+
 .bs-booking-node{ 
 background-color: #ff9999 !important;
 }
