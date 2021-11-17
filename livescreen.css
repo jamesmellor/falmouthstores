@@ -23,6 +23,6 @@ font-size: 28px !important;
 }
 
 /*fix the width of the room name cell - needs customisation for each board */
-.bs-item-label {
+.bs-item {
     width: 300px;
 }
