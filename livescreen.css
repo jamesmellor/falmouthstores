@@ -9,7 +9,7 @@ font-size: 20px;!important;
 
 /*Font size of room or asset name */
 .bs-item-text {
-font-size: 1.5rem!important;
+font-size: 1.6rem!important;
 }
 
 .bs-item {
@@ -22,4 +22,5 @@ background-color: #dbf0c7 !important;
 
 .bs-booking-node{ 
 background-color: #ff9999 !important;
+font-size: 20px;!important;
 }
