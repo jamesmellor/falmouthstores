@@ -21,3 +21,8 @@ background-color: #dbf0c7 !important;
 background-color: #ff9999 !important;
 font-size: 28px !important;
 }
+
+/*fix the width of the room name cell - needs customisation for each board */
+.bs-item-label {
+    width: 300px;
+}
