@@ -1,18 +1,19 @@
 @charset "utf-8";
 /* CSS Document */
 
-/*Font size of booking details */
-
-
 /*Font size of room or asset name */
 .bs-item-text {
 font-size: 1.6rem!important;
 }
 
+/*fix the colour and width of the room name cell - width needs customisation for each board */
 .bs-item {
 background-color: #f9f9f9 !important;
+width: 300px !important;   
 }
-/*.bs-chart-item {
+
+/* not used
+.bs-chart-item {
 background-color: #dbf0c7 !important;
 }
 */
@@ -20,9 +21,4 @@ background-color: #dbf0c7 !important;
 .bs-booking-node{ 
 background-color: #ff9999 !important;
 font-size: 28px !important;
-}
-
-/*fix the width of the room name cell - needs customisation for each board */
-.bs-item {
-    width: 300px;
 }
