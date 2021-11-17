@@ -2,10 +2,7 @@
 /* CSS Document */
 
 /*Font size of booking details */
-.element.style {
-/*background-color: rgb(244, 218, 87); */
-font-size: 20px;!important;
-}
+
 
 /*Font size of room or asset name */
 .bs-item-text {
@@ -22,5 +19,5 @@ background-color: #dbf0c7 !important;
 
 .bs-booking-node{ 
 background-color: #ff9999 !important;
-font-size: 20px;!important;
+font-size: 20px !important;
 }
