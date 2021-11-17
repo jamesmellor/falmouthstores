@@ -9,7 +9,7 @@ font-size: 1.6rem!important;
 /*fix the colour and width of the room name cell - width needs customisation for each board */
 .bs-item {
 background-color: #f9f9f9 !important;
-width: 300px !important;   
+width: 400px !important;   
 }
 
 /* not used
